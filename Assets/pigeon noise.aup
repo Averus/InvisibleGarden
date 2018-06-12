@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="pigeon noise_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="1.9060770975" vpos="288" h="0.0000000000" zoom="148.4720303867" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="major_brand" value="dash"/>
+		<tag name="Software" value="Lavf56.25.101"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="958502">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000db7.au" len="178086" min="-0.962441" max="1.0" rms="0.033205"/>
+				</waveblock>
+				<waveblock start="178086">
+					<simpleblockfile filename="e000041c.au" len="262144" min="-0.964532" max="0.985936" rms="0.033878"/>
+				</waveblock>
+				<waveblock start="440230">
+					<simpleblockfile filename="e0000151.au" len="262144" min="-0.95264" max="0.995057" rms="0.0267"/>
+				</waveblock>
+				<waveblock start="702374">
+					<simpleblockfile filename="e0000913.au" len="256128" min="-0.928173" max="0.999727" rms="0.039794"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="958502">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d98.au" len="178086" min="-0.962441" max="1.0" rms="0.033205"/>
+				</waveblock>
+				<waveblock start="178086">
+					<simpleblockfile filename="e0000f69.au" len="262144" min="-0.964532" max="0.985936" rms="0.033878"/>
+				</waveblock>
+				<waveblock start="440230">
+					<simpleblockfile filename="e00006dd.au" len="262144" min="-0.95264" max="0.995057" rms="0.0267"/>
+				</waveblock>
+				<waveblock start="702374">
+					<simpleblockfile filename="e00000bc.au" len="256128" min="-0.928173" max="0.999727" rms="0.039794"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51088">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009f3.au" len="51088" min="-0.999992" max="0.802821" rms="0.05571"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c12.au" len="51088" min="-0.999992" max="0.802821" rms="0.05571"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="48712">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008cc.au" len="48712" min="-0.962441" max="1.0" rms="0.046"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.10458050">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6535">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002fb.au" len="6535" min="-0.073719" max="0.10594" rms="0.002174"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="48712">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e7f.au" len="48712" min="-0.962441" max="1.0" rms="0.046"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.10458050">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6535">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000450.au" len="6535" min="-0.073719" max="0.10594" rms="0.002174"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="84058">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e1b.au" len="84058" min="-0.724918" max="1.0" rms="0.038885"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Free download sound effect birds %2FHIGHT QUALITY%2F bird flapping" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="84058">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009fb.au" len="84058" min="-0.724918" max="1.0" rms="0.038885"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
